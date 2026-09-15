@@ -6,3 +6,4 @@ asyncpg==0.30.0
 pydantic==2.12.2
 python-dotenv==1.0.1
 pymongo
+motor
